@@ -1,6 +1,6 @@
 FROM	debian:trixie-slim
 
-LABEL 	author="Voxel Bone Cloud" maintainer="github@voxelbone.cloud"
+LABEL 	author="Voxel Bone Cloud + Noble" maintainer="hello@glacier.dog"
 
 RUN 	apt update \
 	&& apt install curl -y \
